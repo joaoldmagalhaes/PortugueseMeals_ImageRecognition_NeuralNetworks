@@ -1,3 +1,0 @@
-Correr pip-compile no script 
-
-Tutorial - https://github.com/binder-examples/requirements/blob/main/requirements.txt
