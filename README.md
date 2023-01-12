@@ -9,4 +9,4 @@
 - Jorge Gaspar        `20211057` <br> 
 - Mariana Teixeira    `20211058` <br>
 
-Dataset can be accessed here: ![image](https://user-images.githubusercontent.com/72304728/212205306-728e58b4-279d-43a4-9552-e831047c3802.png)
+Dataset can be accessed here: https://drive.google.com/drive/folders/1lVGqOqAmYonsL21JloVIxI8FWutnmrmT?usp=share_link
